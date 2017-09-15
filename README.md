@@ -115,5 +115,5 @@ API_KEY=*****
 ```
 The last is your key after the sign in on the https://datamarket.azure.com/dataset/bing/search.
 
-**now in Italy there is a problem to retrieve Bing search api key**
-To use these you should store them in a .env file 
+**Now in Italy there is a problem to retrieve Bing search api key.**
+To use these variables you should store them in a .env file 
