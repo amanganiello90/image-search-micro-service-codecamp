@@ -1,0 +1,25 @@
+{
+  "name": "image-search-micro-service-codecamp",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "bing.search": "^1.0.1",
+    "express": "^4.15.4",
+    "jade": "^1.11.0",
+    "mongoose": "^4.3.7",
+    "mongodb": "^2.1.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.8.1"
+  },
+  "engines": {
+    "node": "4.4.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amanganiello90/image-search-micro-service-codecamp.git"
+  }
+}
