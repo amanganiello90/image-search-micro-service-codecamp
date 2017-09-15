@@ -110,7 +110,7 @@ https://image-search-micro-service.glitch.me/latest
 N.B it is used a mLab mongodb database. There are these env variables:
 
 ```
-MONGOLAB_URI=mongodb://test:test@ds038547.mlab.com:38547/url-shortener
+MONGOLAB_URI=mongodb://test:test@ds038547.mlab.com:38547/image-search
 API_KEY=*****
 ```
 The last is your key after the sign in on the https://datamarket.azure.com/dataset/bing/search.
